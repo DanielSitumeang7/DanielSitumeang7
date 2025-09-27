@@ -58,31 +58,3 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=danielstmg&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=danielstmg&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=danielstmg&show_icons=true" alt="Daniel's GitHub stats" height="180"/>
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielstmg&layout=compact&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielstmg&layout=compact&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielstmg&layout=compact" alt="Top Langs" height="180"/>
-  </picture>
-</p>
